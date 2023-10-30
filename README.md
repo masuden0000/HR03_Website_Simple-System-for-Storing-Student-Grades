@@ -19,7 +19,7 @@ Project akhir yang dibangun harus memenuhi kriteria berikut ini:
 
 ## Demo
 
-https://hr-05-website-simple-system-for-storing-student-grades.vercel.app/
+https://www.hr-05-website-simple-system-for-storing-student-grades.vercel.app/
 ## Run Locally
 
 Clone the project
