@@ -7,7 +7,7 @@ class PerkenalanDiri extends Component {
         return (
             <Container className='justify-content-center p-4'>
                 <div className='container-perkenalandiri d-flex flex-column'>
-                    <h1 onmousedown="return false" onselectstart="return false">
+                    <h1 onmousedown='return false;' onselectstart='return false;'>
                         <span>HUDA</span>RASYAD<span>WICAKSONO</span>
                     </h1>
                     <p>2210511098</p>
