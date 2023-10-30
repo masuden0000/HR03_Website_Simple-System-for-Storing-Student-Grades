@@ -19,7 +19,7 @@ class Header extends Component {
                                 <Nav.Link as={NavLink} to={"/"} className="px-3 navbar-menu">programTugas.js</Nav.Link>
                             </Nav.Item>
                             <Nav.Item>
-                                <Nav.Link as={NavLink} to={"/perkenalandiri"} className="navbar-menu">Perkenalan Diri</Nav.Link>
+                                <Nav.Link as={NavLink} to={"/perkenalandiri"} className="px-3 navbar-menu">Perkenalan Diri</Nav.Link>
                             </Nav.Item>
                         </Nav>
                     </Navbar.Collapse>
